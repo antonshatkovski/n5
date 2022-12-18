@@ -1,5 +1,5 @@
 <html>
-    <title>Games Lab</title>
+    <title>Pizza</title>
     <body style="font-family:sans-serif;">
         <header style="background-color:darkorange;color:black">
             <img src="https://i.pinimg.com/originals/3e/f6/70/3ef6706c547372b9c593e8c600e70c9a.jpg" height="50px"/ id="start">

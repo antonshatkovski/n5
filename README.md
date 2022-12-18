@@ -29,7 +29,7 @@
                 <img src="https://ya-arhangelsk.ru/unimages/pizza/3.jpg" width="200px"/>
                 <img src="https://avatars.mds.yandex.net/get-altay/790902/2a00000164edece8b1f0bb10556e0af191a7/XXL" width="200px"/>
             </p>
-            <h2 id="price">Наше предложение</h2>
+            <h2 id="price">Наше мини меню</h2>
             <table style="border-collapse:collapse;border:1px solid green;">
                 <tr style="border:1px solid green;background-color:palegreen;">
                     <td>Название пиццы</td>

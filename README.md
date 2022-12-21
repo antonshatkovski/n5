@@ -1,5 +1,6 @@
 <html>
-        <body style="font-family:sans-serif;">
+    <title>pizza</title>
+    <body style="font-family:sans-serif;">
         <header style="background-color:darkorange;color:black">
             <img src="https://w7.pngwing.com/pngs/652/985/png-transparent-pizza-hut-logo-food-pizza-hut-pizza.png" height="50px"/ id="start">
             <a href="#games" style="color:black; font-size:20px;">Какие пиццы мы готовим?</a>
@@ -29,31 +30,31 @@
                 <img src="https://avatars.mds.yandex.net/get-altay/790902/2a00000164edece8b1f0bb10556e0af191a7/XXL" width="200px"/>
             </p>
             <h2 id="price">Наше мини меню</h2>
-           <table style="border-collapse:collapse;border:1px solid green;">
+            <table style="border-collapse:collapse;border:1px solid green;">
                 <tr style="border:1px solid green;background-color:palegreen;">
-                    <td>Название</td>
-                    <td>Подробности</td>
+                    <td>Название пиццы</td>
+                    <td>Из чего состоит</td>
                     <td>Цена</td>
                 </tr>
                 <tr style="border:1px solid green;">
                     <td style="background-color:palegreen;">Пиперони</td>
-                    <td>Сыр,пиперони,соус</td>
-                    <td>405 руб.</tr>
+                    <td>Сыр,пиперони,болгарский перец.</td>
+                    <td>450р</td>
                 </tr>
                 <tr style="border:1px solid green;">
-                    <td style="background-color:palegreen;">Сырная</td>
-                    <td>Сыр,соус<td>
-                    <td>319 руб.</td>
+                    <td style="background-color:palegreen;">Маргарита</td>
+                    <td>Сыр,томаты,соус.</td>
+                    <td>379р</td>
                 </tr>
             <tr style="border:1px solid green;">
-                <td style="background-color:palegreen;">Маргарита</td>
-                <td>Сыр,томаты,соус</td>
-                <td>450 руб.</td>
+                <td style="background-color:palegreen;">Сырная</td>
+                <td>Сыр,соус.</td>
+                <td>310р</td>
             </tr>
             <tr style="border:1px solid green;">
-                <td style="background-color:palegreen;">BBQ</td>
-                <td>Сыр,маринованные огурцы,бекон,соус</td>
-                <td>Договорная</td>
+                <td style="background-color:palegreen;">Мясная</td>
+                <td>Сыр,соус,ветчина,пиперони.</td>
+                <td>419</td>
             </tr>
             </table>
             <h2>Популярность пиццерии</h2>

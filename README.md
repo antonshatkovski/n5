@@ -30,31 +30,31 @@
                 <img src="https://avatars.mds.yandex.net/get-altay/790902/2a00000164edece8b1f0bb10556e0af191a7/XXL" width="200px"/>
             </p>
             <h2 id="price">Наше мини меню</h2>
-            <table style="border-collapse:collapse;border:1px solid green;">
+           <table style="border-collapse:collapse;border:1px solid green;">
                 <tr style="border:1px solid green;background-color:palegreen;">
-                    <td>Название пиццы</td>
-                    <td>Из чего состоит</td>
+                    <td>Название</td>
+                    <td>Подробности</td>
                     <td>Цена</td>
                 </tr>
                 <tr style="border:1px solid green;">
                     <td style="background-color:palegreen;">Пиперони</td>
-                    <td>Сыр,пиперони,болгарский перец.</td>
-                    <td>450р</td>
+                    <td>Сыр,пиперони,соус</td>
+                    <td>450 руб.</tr>
                 </tr>
                 <tr style="border:1px solid green;">
-                    <td style="background-color:palegreen;">Маргарита</td>
-                    <td>Сыр,томаты,соус.</td>
-                    <td>379р</td>
+                    <td style="background-color:palegreen;">Сырная</td>
+                    <td>Сыр,соус</td>
+                    <td>319 руб.</td>
                 </tr>
             <tr style="border:1px solid green;">
-                <td style="background-color:palegreen;">Сырная</td>
-                <td>Сыр,соус.</td>
-                <td>310р</td>
+                <td style="background-color:palegreen;">BBQ</td>
+                <td>Сыр,соус,маринованные огурцы,бекон</td>
+                <td>479 руб.</td>
             </tr>
             <tr style="border:1px solid green;">
                 <td style="background-color:palegreen;">Мясная</td>
-                <td>Сыр,соус,ветчина,пиперони.</td>
-                <td>419</td>
+                <td>Сыр,соус,пиперони,бекон</td>
+                <td>460 руб.</td>
             </tr>
             </table>
             <h2>Популярность пиццерии</h2>
@@ -68,4 +68,3 @@
         </footer>
     </body>
 </html>
-

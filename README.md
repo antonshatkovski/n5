@@ -39,7 +39,7 @@
                 <tr style="border:1px solid green;">
                     <td style="background-color:palegreen;">Пиперони</td>
                     <td>Сыр,пиперони,соус</td>
-                    <td>450 руб.</tr>
+                    <td>450 руб.</td>
                 </tr>
                 <tr style="border:1px solid green;">
                     <td style="background-color:palegreen;">Сырная</td>

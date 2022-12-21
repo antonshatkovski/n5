@@ -1,14 +1,15 @@
 <html>
-        <body style="font-family:sans-serif;">
+    <title>pizza</title>
+    <body style="font-family:sans-serif;">
         <header style="background-color:darkorange;color:black">
-            <img src="https://i.pinimg.com/originals/3e/f6/70/3ef6706c547372b9c593e8c600e70c9a.jpg" height="50px"/ id="start">
+            <img src="https://w7.pngwing.com/pngs/652/985/png-transparent-pizza-hut-logo-food-pizza-hut-pizza.png" height="50px"/ id="start">
             <a href="#games" style="color:black; font-size:20px;">Какие пиццы мы готовим?</a>
             <a href="#price" style="color:black; font-size:20px;">Прайс лист</a>
         </header>
         <main>
             <h1 style="text-align:center;font-size:50px;">Pizzaotmastera</h1>
             <h2 style="text-align:center;font-size:40px;">Пиццерия</h2>
-            <img src="https://e0.edimdoma.ru/data/posts/0002/1429/21429-ed4_wide.jpg?1631194036"width="800px"/>
+            <img src="https://cdnn21.img.ria.ru/images/98976/61/989766135_0:105:2000:1230_600x0_80_0_0_22f73da863b108382af02825eddc84f0.jpg"width="800px"/>
             <h2 id="games">Мы работаем без выходных</h2>
             <p>Хотите сделать свою пиццу? 
                 <br>Тогда приезжайте нам в пиццерию!
@@ -67,3 +68,4 @@
         </footer>
     </body>
 </html>
+https://drive.google.com/uc?export=view&id=1BdcETyQLgiG-thfcv3USBWfiA00vNMlH/view?usp=sharing
